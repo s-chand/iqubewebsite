@@ -1,3 +1,6 @@
 <?php
-    //this is the contact iQube page
+   include 'header.php';
+?>
+<?php
+   include 'footer.php';
 ?>

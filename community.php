@@ -1,3 +1,6 @@
 <?php
-    //this is the community page
+   include 'header.php';
+?>
+<?php
+   include 'footer.php';
 ?>
