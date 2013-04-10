@@ -5,7 +5,6 @@
  <!-- Jumbotron -->
       <div class="jumbotron">
         
-        
     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide">

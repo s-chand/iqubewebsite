@@ -7,9 +7,18 @@
 		<script type="text/javascript" src="bootstrap/js/jquery.js"></script>
 		<script type="text/javascript" src="bootstrap/js/bootstrap.js"></script>
 		<script type="text/javascript" src="bootstrap/js/bootstrap.min.js"></script>
+
 	</head>
 	<body>
-
+<div id="clouds">
+	<div class="cloud x1"></div>
+	<!-- Time for multiple clouds to dance around -->
+	<div class="cloud x2"></div>
+	<div class="cloud x3"></div>
+	<div class="cloud x4"></div>
+	<div class="cloud x5"></div>
+</div>
+     
     <div class="container">
 
       <div class="masthead">
@@ -29,5 +38,3 @@
           </div>
         </div><!-- /.navbar -->
       </div>
-
-     
