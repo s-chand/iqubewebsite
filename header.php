@@ -22,7 +22,7 @@
     <div class="container">
 
       <div class="masthead">
-        <h3 class="muted">iQube(Logo Here)</h3>
+        <h3 class="muted"><img src="bootstrap/img/Final-Official-Logo (1).png" width="20%" height="20%" /></h3>
         <div class="navbar">
           <div class="navbar-inner">
             <div class="container">
