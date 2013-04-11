@@ -1,6 +1,5 @@
-<hr>
 
-      <div class="footer">
+      <div class="footer" style="margin-left:50%; margin-right:auto">
         <p>&copy; iQube 2013</p>
       </div>
 

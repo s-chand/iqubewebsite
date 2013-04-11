@@ -47,33 +47,7 @@
         <a class="btn btn-large btn-success" href="#">Get started today</a-->
       </div>
 
-      <hr>
-
-      <!-- Example row of columns -->
-      <div class="row-fluid">
-        <div class="span4 well well-small" style="border-left:#FBFBFC">
-          <h2>iQube S.D.P</h2>
-          <p>Some words about SDP.... </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-        <div class="span4 well well-small" style="border-left:#FBFBFC">
-          <h2>P2MU network</h2>
-          <p>P2MU introduction and so on.... </p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-       </div>
-        <div class="span4 well well-small" style="border-left:#FBFBFC">
-          <h2>iQube LongCodes</h2>
-          <p>Some words about Long codes.....</p>
-          <p><a class="btn" href="#">View details &raquo;</a></p>
-        </div>
-      </div>
-
-
-
-      
-
-
-   
+     
 <?php
 	include 'footer.php';
 ?>

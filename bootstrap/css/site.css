@@ -1,6 +1,5 @@
- body {
-        
-        /*To hide the horizontal scroller appearing during the animation*/
+body {
+    /*To hide the horizontal scroller appearing during the animation*/
 	overflow: hidden;
 	padding: 100px 0;
 	padding-top: 20px;
