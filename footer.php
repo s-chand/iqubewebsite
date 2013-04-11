@@ -1,6 +1,6 @@
 
       <div class="footer" style="margin-left:50%; margin-right:auto">
-        <p>&copy; iQube 2013</p>
+        <p>&copy; <img src="bootstrap/img/Final-Official-Logo (1).png" width="10%" /> 2013</p>
       </div>
 
     </div> <!-- /container -->
